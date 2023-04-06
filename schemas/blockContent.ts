@@ -19,7 +19,7 @@ const blockContent = {
         {title: 'Bullet', value: 'bullet'},
         {title: 'Numbered', value: 'numbered'}
       ],
-      marks; [
+      marks: [
         {title: 'Strong', value: 'string'},
         {title: 'Emphasis', value: 'em'},
         {title: 'Code', value: 'code'}
