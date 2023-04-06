@@ -21,7 +21,7 @@ const blockContent = {
       ],
       marks: {
         decorators: [
-          {title: 'Strong', value: 'string'},
+          {title: 'Strong', value: 'strong'},
           {title: 'Emphasis', value: 'em'},
           {title: 'Code', value: 'code'},
         ],
