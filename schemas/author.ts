@@ -25,19 +25,6 @@ const author = {
         hotspot: true,
       },
     },
-    // {
-    //   name: 'bio',
-    //   title: 'Bio',
-    //   type: 'array',
-    //   of: [
-    //     {
-    //       title: 'Block',
-    //       tyoe: 'block',
-    //       styles: [{title: 'Normal', value: 'normal'}],
-    //       lists: [],
-    //     },
-    //   ],
-    // },
   ],
   preview: {
     select: {
