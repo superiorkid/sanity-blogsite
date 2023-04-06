@@ -17,7 +17,7 @@ const blockContent = {
       ],
       lists: [
         {title: 'Bullet', value: 'bullet'},
-        {title: 'Numbered', value: 'numbered'},
+        {title: 'Numbered', value: 'number'},
       ],
       marks: {
         decorators: [
